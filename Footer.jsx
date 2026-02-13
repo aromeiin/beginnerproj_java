@@ -17,9 +17,9 @@ export const Footer = () => {
      </div>
      <p className="copyright">© 2026 All Rights Reserved.</p>
      <div className="icons">
-     <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/500px-Icon-round-Question_mark.svg.png" alt="question mark" /></a>
-        <a href="#"><img src="https://cdn-icons-png.flaticon.com/128/3916/3916611.png" alt="email" /></a>
-        <a href="#"><img src="https://cdn-icons-png.flaticon.com/128/5070/5070407.png" alt="phone number" /></a>
+     <a href="#"><img src="https://www.shareicon.net/data/128x128/2015/09/20/643708_book_512x512.png" alt="book" /></a>
+        <a href="#"><img src="https://www.shareicon.net/data/128x128/2015/08/10/82853_reddit_4096x4096.png" alt="reddit" /></a>
+        <a href="#"><img src="https://www.shareicon.net/data/128x128/2016/01/14/702922_globe_512x512.png" alt="globe" /></a>
       
     </div>
     </footer>
